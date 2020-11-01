@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "productName": "Shoes",
+      "brandName": "Nike",
+      "price": "4999",
+      "userId": "115269369570031538547",
+      "id": 1
+    },
+    {
+      "productName": "Shoes",
+      "brandName": "Puma",
+      "price": "3999",
+      "userId": "115269369570031538547",
+      "id": 2
+    },
+    {
+      "productName": "Mobile Phone",
+      "brandName": "Apple",
+      "price": "80000",
+      "userId": "115269369570031538547",
+      "id": 3
+    },
+    {
+      "productName": "Mobile Phone",
+      "brandName": "OnePlus",
+      "price": "41000",
+      "userId": "115269369570031538547",
+      "id": 4
+    },
+    {
+      "productName": "Laptop",
+      "brandName": "Dell",
+      "price": "69999",
+      "userId": "115269369570031538547",
+      "id": 5
+    }
+  ]
+}
